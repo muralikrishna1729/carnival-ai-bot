@@ -56,8 +56,8 @@ npm run dev
 ### 3️⃣ Run the Application
 Make sure both the frontend and backend are running in separate terminals.
 
--Backend runs on: http://localhost:5000
--Frontend runs on: http://localhost:5173
+- Backend runs on: http://localhost:5000
+- Frontend runs on: http://localhost:5173
 
 ## 📌 Project Structure
 ```
@@ -86,9 +86,9 @@ carnival-ai-bot
 
 ```
 ## 🚀 Future Improvements
--🔥 Multi-language support
--🎙️ Voice input & text-to-speech
--📱 Mobile-responsive UI
--🛠️ AI fine-tuning for better responses
+- 🔥 Multi-language support
+- 🎙️ Voice input & text-to-speech
+- 📱 Mobile-responsive UI
+- 🛠️ AI fine-tuning for better responses
 
 
